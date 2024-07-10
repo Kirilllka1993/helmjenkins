@@ -2,21 +2,12 @@ apiVersion: v1
 entries:
   jenkins-helm:
   - apiVersion: v2
-    created: "2024-07-10T17:04:30.926764865Z"
+    created: "2024-07-10T17:15:08.791644552Z"
     description: A Helm chart for Kubernetes
-    digest: 7763acdf3d902b70312932b7d8c2b27403be882b1301dfbd65cd7350ae6f8bdf
+    digest: 4947f8f32a3d61e8273b6c5584872213d9359f82b3652510f59e26a68b963af1
     name: jenkins-helm
     type: application
     urls:
-    - helm-releases/first-app-0.1.0.tgz
+    - helm-releases/jenkins-helm-0.2.0.tgz
     version: 1.1.0
-  - apiVersion: v2
-    created: "2024-07-10T17:04:30.927811798Z"
-    description: A Helm chart for Kubernetes
-    digest: 7763acdf3d902b70312932b7d8c2b27403be882b1301dfbd65cd7350ae6f8bdf
-    name: jenkins-helm
-    type: application
-    urls:
-    - helm-releases/first-app-0.2.0.tgz
-    version: 1.1.0
-generated: "2024-07-10T17:04:30.925777618Z"
+generated: "2024-07-10T17:15:08.791166475Z"
